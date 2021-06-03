@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation for restraint of the unlawfull sale and transportation of English horns.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B13143</idno><idno type="EEBO-CITATION">99892716</idno>
+  <idno type="VID">188380</idno>
+  <idno type="EEBO-PROQUEST">2240923527</idno>
+  
+            <idno type="STC">STC 9112</idno>
+            <idno type="STC">Interim Tract Supplement Guide 1851.b.3[28]</idno>
+            <idno type="STC">ESTC S123894</idno>
+            <idno type="PROQUEST">ocm99892716</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99892716e"/>
+            <note>(EEBO-TCP ; phase 2, no. B13143)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188380)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C10:2[30])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation for restraint of the unlawfull sale and transportation of English horns.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>by Robert Barker, printer to the Kings most excellent Majesty: and by the assignes of John Bill,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1638.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated at end: ... Whitehall, the twentieth day of April, in the fourteenth yeer of Our reign.</note>
+                  <note>Arms 21; Steele notation: the ties, as.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Hides and skins --  Law and legislation --  England --  Early works to 1800.</term>
+               <term type="topical_term">Cattle --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:188380:1"/>
+            <head type="illustration">
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <p>
+                     <label>C R</label>
+                  </p>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+               </figure>
+            </head>
+            <opener>
+               <signed>¶ By the King.</signed>
+            </opener>
+            <head>¶ A Proclamation for restraint of the unlawfull sale and transportation of English Horns.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas complaint was made to the Parliament assembled in the seventh yeer of the Reign of Our late dear and royall Father, King <hi>JAMES</hi> of blessed memory, that by the repealing of an Act made in the fourth yeer of the Reign of King <hi>Edward</hi> the fourth of this King<g ref="char:EOLhyphen"/>dome, Strangers and Aliens had and did daily buy up, and procure unto themselves the great and chief stuffe of English Horns un<g ref="char:EOLhyphen"/>wrought, of Tanners and Butchers, and otherwise, and did daily convey and carry them beyond the Seas, and there made them into divers works, whereby many housholders of this Realm (that li<g ref="char:EOLhyphen"/>ved and maintained their families, paid Subsidies, and other du<g ref="char:EOLhyphen"/>ties, by the benefit of their labours in working the said Horns) be<g ref="char:EOLhyphen"/>came poore and decayed, and the Wardens of the Horners of the City of <hi>London</hi> disabled to search the Wares belonging to their Trade, and did likewise lose their government in their Company, as by the said Act of Parliament more at large appeareth. Now We being informed by the humble Petition of Our loving Subjects, the Master, Wardens, and Assistants of the Mystery of Horners of Our said City of <hi>London,</hi> that the excessive and abusive transportation of Horns unwrought is still continued, doe therefore hereby straitly charge and command all Our Subjects, as well Tanners as Butchers, and all others whom the same shall or may concern, that from henceforth they nor any of them shall sell, or put to sale, any English Horns un<g ref="char:EOLhyphen"/>wrought, to any Aliens or Strangers, or send any of them unwrought over the Sea, or other<g ref="char:EOLhyphen"/>wise, contrary to the said Acts of Parliament, upon pain of Our high displeasure, and of such penalties and punishments as by the Laws and Statutes of this Our Kingdome of <hi>England,</hi> or by Our Prerogative Royall, shall or may be inflicted upon the Offenders for breach of Our said Laws, and contempt of Our Royall will and pleasure herein declared. For the better ac<g ref="char:EOLhyphen"/>complishment whereof, We do hereby straitly charge and command all and singular Mayors, Iustices of Peace, Sheriffs, Bailiffs, Constables, Headboroughs, &amp; all other Our Officers, Mi<g ref="char:EOLhyphen"/>nisters, and loving Subjects, to whom these presents shall come, from time to time to be aiding, helping, furthering, and assisting to the said Master, Wardens, and Assistants, and unto all and every the members of the same Incorporation, and in no wise to hinder or molest them, or any of them, in the due execution of the powers, authorities, and priviledges by the Acts of Par<g ref="char:EOLhyphen"/>liament aforesaid, or otherwise by any Our Letters Patents to them given and granted, as they and every of them will answer unto the contrary at their uttermost perils.</p>
+            <closer>
+               <dateline>Given at Our Court at Whitehall, <date>this twentieth day of April, in the Fourteenth yeer of Our Reign.</date>
+               </dateline>
+            </closer>
+            <trailer>¶ God save the King.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>❧ Imprinted at London by ROBERT BARKER, Printer to the Kings most excellent Majesty: And by the Assignes of JOHN BILL. 1638.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
